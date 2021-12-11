@@ -1,7 +1,7 @@
 ## Welcome to LukCoding's Datapack site!
 
 You can install the pack by downloading the zip file from the button in the menu and then extracting the .zip.
-When you extract this, you get a folder. Inside this folder, there's another folder. Now open a new file explorer window and into the top, 
+When you extract this, you get a folder. Inside this folder, there's another folder. Now open a new file explorer window and into the top, enter %appdata%/.minecraft/saves/WORLDNAME/datapacks. Now move the other folder into this folder and now restart your game and now my message will appear in the chat. Now you can start using my datapack!
 
 ### Markdown
 
