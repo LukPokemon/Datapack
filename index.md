@@ -1,8 +1,7 @@
 ## Welcome to LukCoding's Datapack site!
 
-You can install the pack by downloading the zip file from the button in the menu and then extract this.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can install the pack by downloading the zip file from the button in the menu and then extracting the .zip.
+When you extract this, you get a folder. Inside this folder, there's another folder. Now open a new file explorer window and into the top, 
 
 ### Markdown
 
